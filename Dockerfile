@@ -1,6 +1,6 @@
-# Ruby 2.1.1 Dockerfile
+# Ruby 2.1.2 Dockerfile
 #
-# VERSION 1.0.9
+# VERSION 1.1
 
 FROM debian:wheezy
 
